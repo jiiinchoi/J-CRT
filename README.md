@@ -161,11 +161,3 @@ least 20 calibration patients.
 This repository contains J-CRT, its threshold-gradient ablation, and post-hoc CRC. It does not include the independent
 binary CRT and shared sigmoid CRT baselines, the other backbones, the preprocessing scripts, or the figure scripts.
 
-## Acknowledgments
-
-`get_lambda_theta` and `fpr_loss` follow the reference implementation of conformal risk training by Yeh et al.
-([chrisyeh96/conformal-risk-training](https://github.com/chrisyeh96/conformal-risk-training)).
-
-## License
-
-MIT
